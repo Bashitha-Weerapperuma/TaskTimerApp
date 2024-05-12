@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TaskTimerApp</string>
+    <string name="welcome_names">Designed by:\nBashitha Weerapperuma</string>
+    <string name="preference_file_key">com.example.tasktimerapp.PREFERENCE_FILE_KEY</string>
+</resources>
